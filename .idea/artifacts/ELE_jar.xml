@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ELE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ELE_jar</output-path>
+    <root id="archive" name="ELE.jar">
+      <element id="module-output" name="ELE" />
+      <element id="extracted-dir" path="D:/Softwares/mysql-connector-j-8.0.32.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/rs2xml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ELE/rs2xml.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,198 @@
+Deep Learning (19EAI431-VII-CSEAIML-A)
+19EAI431
+Meeting Pattern
+Credit
+Room No
+SB-AB-II-Theory-ICT526,
+Course Category Group
+Faculty
+
+
+
+Deep Learning Lab (19EAI431P-VII-CSEAIML-A)
+19EAI431P
+Meeting Pattern
+Credit
+Room No
+SB-AB-II-LAB-ICT511,
+Course Category Group
+Faculty
+
+
+ARJUN------------------------------------
+
+
+
+Big Data Analytics (19EAI433-VII-CSEAIML-A)
+19EAI433
+Meeting Pattern
+Credit
+Room No
+SB-AB-II-Theory-ICT526,
+Course Category Group
+
+
+
+Big Data Analytics LAB (19EAI433P-VII-CSEAIML-A)
+19EAI433P
+Meeting Pattern
+Credit
+Room No
+SB-AB-II-LAB-ICT511,
+Course Category Group
+
+kalimuthu m-------------------------------
+
+
+Web Mining (19EAI441-VII_CSEAIML-A)
+19EAI441
+Meeting Pattern
+Credit
+Room No
+SB-AB-II-Theory-ICT526,
+Course Category Group
+
+
+Web Mining LAB (19EAI441P-VII-CSEAIML-A)
+19EAI441P
+Meeting Pattern
+Credit
+Room No
+SB-AB-II-LAB-ICT512,
+Course Category Group
+Faculty
+Approved
+
+
+
+Durgadevi p-------------------------------------
+
+
+
+
+
+
+
+
+
+
+Image Processing Lab (19ECS352P-VII-CSEAIM)
+19ECS352P
+Meeting Pattern
+Credit
+Room No
+SB-AB-II-LAB-ICT512,
+Course Category Group
+Faculty
+
+
+Image Processing (19ECS352-VII-CSEAIML)
+19ECS352
+Meeting Pattern
+Credit
+Room No
+SB-AB-II-Theory-ICT527,
+Course Category Group
+Faculty
+
+
+justin varghese--------------------------------
+
+Engineering Economics and Management (19EHS302-VII-CSEAIML-C)
+19EHS302
+Meeting Pattern
+Credit
+Room No
+SB-AB-II-Theory-ICT529,
+Course Category Group
+
+mohammad shameem -------------------------------
+
+
+Internship (19ECS493-VII-CSEAIML-A)
+19ECS493
+Meeting Pattern
+Credit
+Room No
+SB-AB-II-Theory-ICT526,
+Course Category Group
+
+
+naga raju ---------------------------------------
+
+
+Project Phase I (19ECS491-VII-CSEAIML-A)
+19ECS491
+Meeting Pattern
+Credit
+Room No
+SB-AB-II-Theory-ICT526,
+Course Category Group
+Faculty
+kalimuthu -------------------------------------
+
+Comprehensive Skill Development VI (19ECS495-VII-CSEAIML-A)
+19ECS495
+Meeting Pattern
+Credit
+Room No
+SB-AB-II-LAB-ICT411,
+Course Category Group
+
+chetanan dt ---------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
